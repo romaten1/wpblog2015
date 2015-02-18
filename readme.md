@@ -1,0 +1,1 @@
+WPblog2015 - my new blog about it for studying of themes and plugins in WP
