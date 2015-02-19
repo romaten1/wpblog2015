@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="wpblog2015.esy.es">
+  <component name="PublishConfigData" serverName="wpblog2015.esy.es" uploadOnCheckin="8561c4d6-5901-4d62-9cf1-d08dd94ad047">
     <serverData>
       <paths name="wpblog2015.esy.es">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="wpblog2015.esy.es" />
   </component>
 </project>
 
