@@ -7,6 +7,11 @@
   <meta charset="utf-8">
   <title><?php wp_title('|', true, 'right'); ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Icons -->
+    <link rel="shortcut icon" href="<?php echo
+    get_template_directory_uri(); ?>/assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="<?php
+    echo get_template_directory_uri(); ?>/assets/ico/apple-touch-icon-precomposed.png">
 
   <?php wp_head(); ?>
 
